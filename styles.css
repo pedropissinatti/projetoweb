@@ -1,0 +1,213 @@
+#playlist{
+    list-style: none;
+}
+
+#playlist li a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#playlist .current-song a{
+    color:rgb(36, 216, 20);
+}
+
+audio
+    {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    position: fixed;
+    justify-content: center;
+
+    border: 1px solid; 
+    border-color: rgb(107, 107, 107);
+    background-color: rgb(241, 243, 244);       
+    }
+
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920__1 {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(159,159,159,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Retngulo_1 {
+		fill: rgb(71, 70, 70);
+		stroke: rgb(107, 107, 107);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Retngulo_1 {
+		position: absolute;
+		overflow: visible;
+		left: 316px;
+		top: 155px;
+	}
+	#Novidades_da_Semana {
+		left: 334px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 897px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Google Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 90px;
+		color: rgba(0,0,0,1);
+
+	}
+	
+    .pedro{
+        position: absolute;
+		overflow: visible;
+		height: 900;
+		left: 316px;
+        top: 250px;
+		font-size: 28px;
+		font-family: Arial, Helvetica, sans-serif;
+		LINE-HEIGHT:50px;
+		margin-left: 1cm;		
+	}
+
+	hr{
+		height:3px;
+		width: 40cm;
+		border:none; 
+		color:#000;
+		background-color:#000;
+		margin-top:0px;
+		margin-bottom: 0px;
+	}
+	.oi1{
+		margin-left: 0.8cm;
+		color: rgb(255, 255, 255);
+	}
+	.oi2{
+		margin-left: 0.8cm;
+		margin-top: -50px;
+		margin-left: 10cm;
+		color: rgb(255, 255, 255);
+	}
+	.oi3{
+		margin-left: 0.8cm;
+		margin-top: -50px;
+		margin-left: 20cm;
+		color: rgb(255, 255, 255);
+	}
+	.oi4{
+		margin-left: 0.8cm;
+		margin-top: -50px;
+		margin-left: 30cm;
+		color: rgb(255, 255, 255);
+	}
+	.pedro2{
+        position: absolute;
+		overflow: visible;
+		height: 900;
+		left: 316px;
+        top: 0px;
+		font-size: 28px;
+		font-family: Arial, Helvetica, sans-serif;
+		LINE-HEIGHT:53.3px;
+		margin-left: 1cm;
+		color: white;
+	}
+	.pedro3{
+        position: absolute;
+		overflow: visible;
+		height: 900;
+		left: 316px;
+        top: 0px;
+		font-size: 28px;
+		font-family: Arial, Helvetica, sans-serif;
+		LINE-HEIGHT:53.3px;
+		margin-left: 10cm;
+		color: white;
+	}
+.kk{
+	margin-left: 10cm;
+	margin-top: -50px;
+}
+.kkk{
+	margin-left: 20cm;
+	margin-top: -50px;
+}
+.kkkk{
+	margin-left: 30cm;
+	margin-top: -50px;
+}
+
+
+#myInput {
+	background-image: url('searchicon.png');
+	background-repeat: no-repeat;
+	background-position: 12px;
+	width: 38cm;
+	font-size: 16px;
+	padding: 12px 20px 12px 40px;
+	border: 3px solid rgb(0, 0, 0);
+	border-radius: 20px;
+  }
+
+  .barra{
+	margin-top: 5cm;
+	margin-left: 10cm;
+	position: absolute;	
+}
+.linha-vertical {
+	height: 30cm;
+	border-left: 9px solid;
+	margin-left: 308px;
+	position: absolute;	
+	color: rgb(0, 0, 0);
+}
+.pedro4{
+	font-family: Arial, Helvetica, sans-serif;
+	LINE-HEIGHT:1.5cm;
+	margin-left: 1cm;
+	margin-top: 4.2cm;
+	color: rgb(53, 46, 46);
+	font-size: 20px;
+	
+}
+
+p:hover{
+	color: rgb(255, 255, 255);
+}
+
+.pl{
+	margin-left: 30px;
+	font-size: 18px;
+}
+.muvv{
+	position: absolute;	
+	color: rgb(39, 65, 211);
+	margin-top: 2cm;
+	margin-left: 0.5cm;
+	font-size: 37px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.linha-horizontal {
+	height: 4px;
+	border-left: 50.8cm solid;
+	position: absolute;	
+	color: rgb(0, 0, 0);
+	margin-top: 4cm;
+}
